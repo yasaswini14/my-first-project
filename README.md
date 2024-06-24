@@ -1,2 +1,3 @@
 # my-first-project
-This is my first project in github
+# The project is about recommending a movie to anyone.
+# I hope everyone is happy with it.
